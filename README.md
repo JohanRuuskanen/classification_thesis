@@ -4,6 +4,6 @@ This code is a complement to the Master's Thesis "Classification of Prognosis in
 
 The code is written and tested using Matlab 2017a.
 
-No data can be supplied from our part, because of the swedish laws on patient confidentiality.
+No data can be supplied from our part, because of patient confidentiality.
 
 Authors: Ola Andersson and Johan Ruuskanen
